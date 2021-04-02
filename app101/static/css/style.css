@@ -1,0 +1,40 @@
+body {
+    font-size: 16px;
+    color: rgb(55, 56, 52);
+    background-color: bisque;
+    font-family: 'Times New Roman';
+}
+
+
+/**header**/
+
+#header-nav {
+    background-color: rgb(172, 169, 142);
+    border-radius: 0;
+    border: 0;
+    height: 80px;
+}
+
+#header-nav p {
+    color: rgb(19, 28, 44);
+    align-content: center;
+    text-align: center;
+    font-size: 45px;
+}
+
+/**body**/
+img{
+    border-top-left-radius: 30px;
+}
+
+/**webcam**/
+.container{
+    margin: 0px auto;
+    width: 500px;
+    height: 375px
+    border: 10px #333 solid;
+}
+.container text-center{
+    color: white
+    ;
+}
